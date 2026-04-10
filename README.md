@@ -75,14 +75,15 @@ Hola, soy Berick Zambrano 👋
 
 ---
 
-
-## 📊 Estadísticas
+## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caozzz1611&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caozzz1611&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BerickZambrano&show_icons=true&theme=default&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerickZambrano&layout=compact&hide_border=true" />
+</p>
 ---
 
 ## 🤝 Contacto
